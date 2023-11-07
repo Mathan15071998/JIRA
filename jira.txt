@@ -1,1 +1,67 @@
 
+                Ajile and JIRA
+
+
+1)Ajile Process/Ajile Model/Ajile Methodology
+        Ajile is iterative and incremental process. In this process, cx don't need to wait till
+the complete software is developed( Initially, cx can get a piece of software with important features).
+And also, this process accomodate cx's requirement change.
+    Communication is very good bw not only dev and tester but among entire team including business 
+people, designersdevs and testers etc.
+
+Advantages:
+    1)Delivery of the software is fast as compare to the other models.
+    2)Cx's requirement change is allowed at any time.
+    3)Every 2-3 week, cx can get a piece of software
+    4)Good co-operation bw all the teams.
+
+Disadvantages:
+    1)Very less no of documentation because of quick delivery , but meetings are conducted often.
+    
+2)Scrum:
+        Ajile is a process, to follow that, scrum is a tool/framework that will help. So, Scrum is a 
+framework through which we build software product by following agile principles.
+
+Scrum team includes Product owner, scrum master, all people who are working as Developers and Testers.
+
+a)Product owner: 
+    He collect all the features from cx's and prioritize the features which needs to be impleted at first 
+cycle. He can either accept and reject the product build. He always in touch with cx.
+
+b)Scrum Master:
+    The main role is facilitating and driving agile process. The person who is all known about agile process.
+
+c)Dev and testers- Develop and test the software.
+
+Scrum Terminologies:
+-------------------
+        User story- That represents a feature or module in a software.
+        Epic      - A collection of multiple stories(Huge requirement. user stories will be 
+derived from user story).
+        Product Backlog-Contains list of user stories collected from cx and prepared by product owner. First 
+step in the agile process, later this will be converted into either user stories or epics.
+        Sprint/iterations- A period of time to complete the one entire user story(To design,code and test). 
+This is decided by product owner and dev and test team. Usually 2-4 weeks.
+        Sprint planning meeting- Meeting conducted by the teams to define which sprint delivered at which 
+time. Simply when we will deliver what.
+        Sprint Backlog- The list of user stories commited by the dev and test team for a specific sprint.
+(The features accepted by the dev and qa team to deliver on a paricular period of time.)
+
+Scrum Meeting/Standup Meeting/Scrum call- Conducted by the scrum master on each day about 15 mins with the team.
+        Team will focus on 3 questions:
+            1)What did yesterday
+            2)What about today
+            3)Is there any blockers facilitating
+Sprint retrospective meeting- Conducted once after completition of each sprint.
+Just like important things to improve in the next sprint.
+
+        Story point- Rough estimatioin of user stories, will be given by the Dev and QA team in the 
+form of fibonacci series.
+
+1 story point- 1 hour/ 1 day. (This is known as story point estimation.)
+        Burndown Chart- Shows how much work remaining in the sprint. This is maintatined by scrum master
+daily.
+
+
+
+
