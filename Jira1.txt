@@ -1,0 +1,13 @@
+Test Management tools- Used for entire STLC like writing test scenarios, test cases , exectution report,
+bug report, bug status and closure.
+Bug tracking tools- only to report and check the status of the bug.
+Agile tools- exist to manage agile process where we can prepare epics, user stories, sprint cycle management,
+scrum board, burndownchart etc.
+
+i,e.,
+Jira, Version 1 and Teamcity are important tools used in agile process.
+
+Jira- Test management used in IT industry by all the teams including business people. So we 
+can define it as a Agile Management tool. Jeffier plugin along with Jira provides complete mangement of for
+software development purpose.
+
