@@ -11,3 +11,17 @@ Jira- Test management used in IT industry by all the teams including business pe
 can define it as a Agile Management tool. Jeffier plugin along with Jira provides complete mangement of for
 software development purpose.
 
+                                    Jira
+
+How to create and who will create a project- sign in, give a name, choose scrum then create project
+This is created either by Scrum Master or Jira Administrator.
+Users count also choosed by them.
+
+How to create users?
+        Choose people section in the Jira and invite them by sending invitation to their email, once they got an email
+they can easily join the project by using that email.
+
+Create Version:
+    This is created by production owner/scrum  master. This version talks about the production release 
+that can be released in either one sprint or multiple sprints based on the difficulty of the requirement.
+
